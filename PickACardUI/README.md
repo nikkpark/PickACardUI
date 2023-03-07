@@ -1,1 +1,0 @@
-﻿Card Picker with UI.
